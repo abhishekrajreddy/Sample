@@ -1,3 +1,26 @@
+/* .links:hover{
+  color: orange !important
+} */
+/* .links:active{
+  color: yellow !important
+} */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+body{
+  font-family: 'Lato', sans-serif;
+}
+.links-active{
+  color:orange !important;
+}
+
+.fontLink{
+  font-family: 'Noto Serif', serif;
+}
+.font{
+  font-family: 'Lato', sans-serif;
+}
+
 .App {
   text-align: center;
 }
